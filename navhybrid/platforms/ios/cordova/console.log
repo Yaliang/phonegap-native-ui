@@ -1,0 +1,19 @@
+2015-04-09 03:22:52.009 NavHybrid[1502:22182] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/D7BFCD5E-9D00-4DF5-876D-6468AFDF8D79/Library/Cookies/Cookies.binarycookies
+2015-04-09 03:22:52.168 NavHybrid[1502:22182] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-09 03:22:52.168 NavHybrid[1502:22182] Multi-tasking -> Device: YES, App: YES
+2015-04-09 03:22:52.171 NavHybrid[1502:22182] Unlimited access to network resources
+2015-04-09 03:22:52.179 NavHybrid[1502:22182] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-09 03:22:53.213 NavHybrid[1502:22182] Resetting plugins due to page load.
+2015-04-09 03:22:53.260 NavHybrid[1502:22182] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/7D89DD11-9EB5-4AC0-A11F-09229DF3DD9E/NavHybrid.app/www/index.html
+2015-04-09 03:22:53.314 NavHybrid[1502:22182] Received Event: deviceready
+2015-04-09 04:32:16.554 NavHybrid[3217:50862] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/9FEB94AE-BBA2-42EB-8479-7EBE6FBB9B86/Library/Cookies/Cookies.binarycookies
+2015-04-09 04:32:16.681 NavHybrid[3217:50862] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-09 04:34:10.384 NavHybrid[3405:52122] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/78C060C3-B633-4792-B1C8-2682FDEEBBB5/Library/Cookies/Cookies.binarycookies
+2015-04-09 04:34:10.682 NavHybrid[3405:52122] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
