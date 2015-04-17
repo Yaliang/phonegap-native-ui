@@ -39,6 +39,10 @@
 		7E7966E51810823500FA85AD /* icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DB1810823500FA85AD /* icon-76@2x.png */; };
 		7E7966E61810823500FA85AD /* icon-small.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DC1810823500FA85AD /* icon-small.png */; };
 		7E7966E71810823500FA85AD /* icon-small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DD1810823500FA85AD /* icon-small@2x.png */; };
+		A2ED93DF1AE179D200D65B1C /* ChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2ED93D81AE1751800D65B1C /* ChatViewController.m */; };
+		A2ED93E01AE179D200D65B1C /* FriendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2ED93DA1AE1751800D65B1C /* FriendViewController.m */; };
+		A2ED93E11AE179D200D65B1C /* SettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2ED93DC1AE1751800D65B1C /* SettingViewController.m */; };
+		A2ED93E21AE179D200D65B1C /* EventViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2ED93DE1AE176A400D65B1C /* EventViewController.m */; };
 		A2EEA5D41AD66EFE00779341 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2EEA5D31AD66EFE00779341 /* Main.storyboard */; };
 		A2EEA5D81AD67C1E00779341 /* list88-blank-pink-192.png in Resources */ = {isa = PBXBuildFile; fileRef = A2EEA5D61AD67C1E00779341 /* list88-blank-pink-192.png */; };
 		A2EEA5D91AD67C1E00779341 /* list88-solid-pink-192.png in Resources */ = {isa = PBXBuildFile; fileRef = A2EEA5D71AD67C1E00779341 /* list88-solid-pink-192.png */; };
@@ -423,6 +427,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2ED93DF1AE179D200D65B1C /* ChatViewController.m in Sources */,
+				A2ED93E01AE179D200D65B1C /* FriendViewController.m in Sources */,
+				A2ED93E11AE179D200D65B1C /* SettingViewController.m in Sources */,
+				A2ED93E21AE179D200D65B1C /* EventViewController.m in Sources */,
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
