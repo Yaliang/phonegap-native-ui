@@ -17,3 +17,137 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-04-09 04:32:16.681 NavHybrid[3217:50862] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
 2015-04-09 04:34:10.384 NavHybrid[3405:52122] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/78C060C3-B633-4792-B1C8-2682FDEEBBB5/Library/Cookies/Cookies.binarycookies
 2015-04-09 04:34:10.682 NavHybrid[3405:52122] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-15 12:12:41.605 NavHybrid[1096:23103] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/B32A37ED-6CB4-4261-ABC5-F4AA56C53CC8/Library/Cookies/Cookies.binarycookies
+2015-04-15 12:12:41.827 NavHybrid[1096:23103] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-15 12:12:41.834 NavHybrid[1096:23103] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-15 12:12:41.834 NavHybrid[1096:23103] Multi-tasking -> Device: YES, App: YES
+2015-04-15 12:12:41.841 NavHybrid[1096:23103] Unlimited access to network resources
+2015-04-15 12:12:43.640 NavHybrid[1096:23103] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-15 12:12:44.158 NavHybrid[1096:23103] Resetting plugins due to page load.
+2015-04-15 12:12:44.252 NavHybrid[1096:23103] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/FE06E384-A4DF-4039-AE8E-A361CC03DA38/NavHybrid.app/www/index2.html
+2015-04-15 12:12:44.299 NavHybrid[1096:23103] Received Event: deviceready
+2015-04-15 12:18:15.832 NavHybrid[1887:26601] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/87276296-4566-4569-A3B6-CF5BC1701E98/Library/Cookies/Cookies.binarycookies
+2015-04-15 12:18:15.937 NavHybrid[1887:26601] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-15 12:18:15.943 NavHybrid[1887:26601] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-15 12:18:15.943 NavHybrid[1887:26601] Multi-tasking -> Device: YES, App: YES
+2015-04-15 12:18:15.945 NavHybrid[1887:26601] Unlimited access to network resources
+2015-04-15 12:18:18.096 NavHybrid[1887:26601] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-15 12:18:18.410 NavHybrid[1887:26601] Resetting plugins due to page load.
+2015-04-15 12:18:19.721 NavHybrid[1887:26601] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/31F85F01-5B2B-429A-A657-D5C044DDBD71/NavHybrid.app/www/index.html#page-login
+2015-04-15 12:20:06.288 NavHybrid[2948:29242] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/CD6F24F4-34D5-4314-B2E6-5A0918BCC6D7/Library/Cookies/Cookies.binarycookies
+2015-04-15 12:20:06.549 NavHybrid[2948:29242] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-15 12:20:06.555 NavHybrid[2948:29242] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-15 12:20:06.556 NavHybrid[2948:29242] Multi-tasking -> Device: YES, App: YES
+2015-04-15 12:20:06.558 NavHybrid[2948:29242] Unlimited access to network resources
+2015-04-15 12:20:08.815 NavHybrid[2948:29242] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-15 12:20:09.118 NavHybrid[2948:29242] Resetting plugins due to page load.
+2015-04-15 12:20:09.423 NavHybrid[2948:29242] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/4F53BBD3-CE18-4AA9-97A9-472CD5FDEE6A/NavHybrid.app/www/index.html#page-event
+2015-04-17 11:38:56.908 NavHybrid[1568:12443] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/EB2577AB-5029-4244-B84F-B5BAC4DE5B39/Library/Cookies/Cookies.binarycookies
+2015-04-17 11:38:57.150 NavHybrid[1568:12443] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-17 11:38:57.158 NavHybrid[1568:12443] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-17 11:38:57.158 NavHybrid[1568:12443] Multi-tasking -> Device: YES, App: YES
+2015-04-17 11:38:57.166 NavHybrid[1568:12443] Unlimited access to network resources
+2015-04-17 11:38:59.537 NavHybrid[1568:12443] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-17 11:39:00.152 NavHybrid[1568:12443] Resetting plugins due to page load.
+2015-04-17 11:39:00.660 NavHybrid[1568:12443] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/68AD9EBD-6264-4801-9261-B8ADAC91F757/NavHybrid.app/www/index.html#page-event
+2015-04-17 11:41:23.147 NavHybrid[2272:14205] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/242421A8-6224-4ED7-B6A4-4B67D6DC1BF1/Library/Cookies/Cookies.binarycookies
+2015-04-17 11:41:23.287 NavHybrid[2272:14205] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-17 11:41:23.293 NavHybrid[2272:14205] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-17 11:41:23.293 NavHybrid[2272:14205] Multi-tasking -> Device: YES, App: YES
+2015-04-17 11:41:23.295 NavHybrid[2272:14205] Unlimited access to network resources
+2015-04-17 11:41:25.282 NavHybrid[2272:14205] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-17 11:41:25.585 NavHybrid[2272:14205] Resetting plugins due to page load.
+2015-04-17 11:41:25.951 NavHybrid[2272:14205] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/B8D76868-3F2A-4A28-A63F-4735B1282F7E/NavHybrid.app/www/index.html#page-event
+2015-04-17 11:42:13.475 NavHybrid[2629:15094] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/858C96B4-DAB7-4CE1-A28B-0A4EBB7244F1/Library/Cookies/Cookies.binarycookies
+2015-04-17 11:42:13.625 NavHybrid[2629:15094] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-17 11:42:13.632 NavHybrid[2629:15094] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-17 11:42:13.633 NavHybrid[2629:15094] Multi-tasking -> Device: YES, App: YES
+2015-04-17 11:42:13.635 NavHybrid[2629:15094] Unlimited access to network resources
+2015-04-17 11:42:15.774 NavHybrid[2629:15094] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-17 11:42:16.130 NavHybrid[2629:15094] Resetting plugins due to page load.
+2015-04-17 11:42:16.481 NavHybrid[2629:15094] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/63ADD3B7-253D-43CD-9A0F-8D8791BA3D91/NavHybrid.app/www/index.html#page-event
+2015-04-17 11:55:05.066 NavHybrid[3364:19581] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/1F84722E-3137-442C-A402-A350CDC6AD50/Library/Cookies/Cookies.binarycookies
+2015-04-17 11:55:05.183 NavHybrid[3364:19581] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-17 11:55:05.187 NavHybrid[3364:19581] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-17 11:55:05.188 NavHybrid[3364:19581] Multi-tasking -> Device: YES, App: YES
+2015-04-17 11:55:05.190 NavHybrid[3364:19581] Unlimited access to network resources
+2015-04-17 11:55:05.191 NavHybrid[3364:19581] Could not load the "user-black.png" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-17 11:55:05.191 NavHybrid[3364:19581] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-17 11:55:05.192 NavHybrid[3364:19581] Multi-tasking -> Device: YES, App: YES
+2015-04-17 11:55:05.192 NavHybrid[3364:19581] Unlimited access to network resources
+2015-04-17 11:55:05.220 NavHybrid[3364:19581] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-17 11:55:05.835 NavHybrid[3364:19581] Resetting plugins due to page load.
+2015-04-17 11:55:06.277 NavHybrid[3364:19581] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/1F6B43E5-26FA-4E8F-9BDB-263F59CAB75C/NavHybrid.app/www/index.html#page-event
+2015-04-17 11:55:08.308 NavHybrid[3364:19581] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-17 11:55:08.645 NavHybrid[3364:19581] Resetting plugins due to page load.
+2015-04-17 11:55:08.730 NavHybrid[3364:19581] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/1F6B43E5-26FA-4E8F-9BDB-263F59CAB75C/NavHybrid.app/www/index.html#page-event
+2015-04-17 12:22:24.316 NavHybrid[2589:11403] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/60E69B7F-7628-43CE-9554-9DB7686AFC3A/Library/Cookies/Cookies.binarycookies
+2015-04-17 12:22:24.537 NavHybrid[2589:11403] Unknown class EventViewController in Interface Builder file.
+2015-04-17 12:22:24.553 NavHybrid[2589:11403] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-17 12:22:24.554 NavHybrid[2589:11403] Unknown class FriendViewController in Interface Builder file.
+2015-04-17 12:22:24.554 NavHybrid[2589:11403] Could not load the "user-black.png" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-17 12:22:24.554 NavHybrid[2589:11403] Unknown class ChatViewController in Interface Builder file.
+2015-04-17 12:22:24.555 NavHybrid[2589:11403] Unknown class SettingViewController in Interface Builder file.
+2015-04-17 12:23:19.599 NavHybrid[3331:13086] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/E2885283-6734-4665-8440-EC3A2C2956B3/Library/Cookies/Cookies.binarycookies
+2015-04-17 12:23:19.692 NavHybrid[3331:13086] Unknown class EventViewController in Interface Builder file.
+2015-04-17 12:23:19.695 NavHybrid[3331:13086] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-17 12:23:19.696 NavHybrid[3331:13086] Unknown class FriendViewController in Interface Builder file.
+2015-04-17 12:23:19.696 NavHybrid[3331:13086] Could not load the "user-black.png" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-17 12:23:19.697 NavHybrid[3331:13086] Unknown class ChatViewController in Interface Builder file.
+2015-04-17 12:23:19.697 NavHybrid[3331:13086] Unknown class SettingViewController in Interface Builder file.

@@ -18,25 +18,25 @@
  */
 
 //
-//  MainViewController.h
+//  EventViewController.h
 //  NavHybrid
 //
 //  Created by ___FULLUSERNAME___ on ___DATE___.
 //  Copyright ___ORGANIZATIONNAME___ ___YEAR___. All rights reserved.
 //
 
-#import "MainViewController.h"
+#import "EventViewController.h"
 
-@implementation MainViewController
+@implementation EventViewController
 
 - (id)initWithNibName:(NSString*)nibNameOrNil bundle:(NSBundle*)nibBundleOrNil
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Uncomment to override the CDVCommandDelegateImpl used
-        // _commandDelegate = [[MainCommandDelegate alloc] initWithViewController:self];
+        // _commandDelegate = [[EventCommandDelegate alloc] initWithViewController:self];
         // Uncomment to override the CDVCommandQueue used
-        // _commandQueue = [[MainCommandQueue alloc] initWithViewController:self];
+        // _commandQueue = [[EventCommandQueue alloc] initWithViewController:self];
     }
     return self;
 }
@@ -46,9 +46,9 @@
     self = [super init];
     if (self) {
         // Uncomment to override the CDVCommandDelegateImpl used
-        // _commandDelegate = [[MainCommandDelegate alloc] initWithViewController:self];
+        // _commandDelegate = [[EventCommandDelegate alloc] initWithViewController:self];
         // Uncomment to override the CDVCommandQueue used
-        // _commandQueue = [[MainCommandQueue alloc] initWithViewController:self];
+        // _commandQueue = [[EventCommandQueue alloc] initWithViewController:self];
     }
     return self;
 }
@@ -82,7 +82,7 @@
 - (void)viewDidUnload
 {
     [super viewDidUnload];
-    // Release any retained subviews of the main view.
+    // Release any retained subviews of the Event view.
     // e.g. self.myOutlet = nil;
 }
 
@@ -133,10 +133,10 @@
 
 @end
 
-@implementation MainCommandDelegate
+@implementation EventCommandDelegate
 
 /* To override the methods, uncomment the line in the init function(s)
-   in MainViewController.m
+   in EventViewController.m
  */
 
 #pragma mark CDVCommandDelegate implementation
@@ -153,10 +153,10 @@
 
 @end
 
-@implementation MainCommandQueue
+@implementation EventCommandQueue
 
 /* To override, uncomment the line in the init function(s)
-   in MainViewController.m
+   in EventViewController.m
  */
 - (BOOL)execute:(CDVInvokedUrlCommand*)command
 {

@@ -103,6 +103,14 @@
 		7E7966DC1810823500FA85AD /* icon-small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-small.png"; sourceTree = "<group>"; };
 		7E7966DD1810823500FA85AD /* icon-small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-small@2x.png"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* NavHybrid-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "NavHybrid-Info.plist"; path = "../NavHybrid-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		A2ED93D71AE1751800D65B1C /* ChatViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChatViewController.h; sourceTree = "<group>"; };
+		A2ED93D81AE1751800D65B1C /* ChatViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChatViewController.m; sourceTree = "<group>"; };
+		A2ED93D91AE1751800D65B1C /* FriendViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FriendViewController.h; sourceTree = "<group>"; };
+		A2ED93DA1AE1751800D65B1C /* FriendViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FriendViewController.m; sourceTree = "<group>"; };
+		A2ED93DB1AE1751800D65B1C /* SettingViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingViewController.h; sourceTree = "<group>"; };
+		A2ED93DC1AE1751800D65B1C /* SettingViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingViewController.m; sourceTree = "<group>"; };
+		A2ED93DD1AE176A400D65B1C /* EventViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EventViewController.h; sourceTree = "<group>"; };
+		A2ED93DE1AE176A400D65B1C /* EventViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EventViewController.m; sourceTree = "<group>"; };
 		A2EEA5D31AD66EFE00779341 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		A2EEA5D61AD67C1E00779341 /* list88-blank-pink-192.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "list88-blank-pink-192.png"; sourceTree = "<group>"; };
 		A2EEA5D71AD67C1E00779341 /* list88-solid-pink-192.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "list88-solid-pink-192.png"; sourceTree = "<group>"; };
@@ -132,11 +140,19 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				A2ED93D71AE1751800D65B1C /* ChatViewController.h */,
+				A2ED93D81AE1751800D65B1C /* ChatViewController.m */,
+				A2ED93D91AE1751800D65B1C /* FriendViewController.h */,
+				A2ED93DA1AE1751800D65B1C /* FriendViewController.m */,
+				A2ED93DB1AE1751800D65B1C /* SettingViewController.h */,
+				A2ED93DC1AE1751800D65B1C /* SettingViewController.m */,
+				A2ED93DD1AE176A400D65B1C /* EventViewController.h */,
+				A2ED93DE1AE176A400D65B1C /* EventViewController.m */,
+				1D3623240D0F684500981E51 /* AppDelegate.h */,
 				302D95EE14D2391D003F00A1 /* MainViewController.h */,
+				1D3623250D0F684500981E51 /* AppDelegate.m */,
 				302D95EF14D2391D003F00A1 /* MainViewController.m */,
 				302D95F014D2391D003F00A1 /* MainViewController.xib */,
-				1D3623240D0F684500981E51 /* AppDelegate.h */,
-				1D3623250D0F684500981E51 /* AppDelegate.m */,
 			);
 			name = Classes;
 			path = NavHybrid/Classes;

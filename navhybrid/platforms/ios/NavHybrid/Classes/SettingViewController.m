@@ -18,25 +18,25 @@
  */
 
 //
-//  MainViewController.h
+//  SettingViewController.h
 //  NavHybrid
 //
 //  Created by ___FULLUSERNAME___ on ___DATE___.
 //  Copyright ___ORGANIZATIONNAME___ ___YEAR___. All rights reserved.
 //
 
-#import "MainViewController.h"
+#import "SettingViewController.h"
 
-@implementation MainViewController
+@implementation SettingViewController
 
 - (id)initWithNibName:(NSString*)nibNameOrNil bundle:(NSBundle*)nibBundleOrNil
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Uncomment to override the CDVCommandDelegateImpl used
-        // _commandDelegate = [[MainCommandDelegate alloc] initWithViewController:self];
+        // _commandDelegate = [[SettingCommandDelegate alloc] initWithViewController:self];
         // Uncomment to override the CDVCommandQueue used
-        // _commandQueue = [[MainCommandQueue alloc] initWithViewController:self];
+        // _commandQueue = [[SettingCommandQueue alloc] initWithViewController:self];
     }
     return self;
 }
@@ -46,9 +46,9 @@
     self = [super init];
     if (self) {
         // Uncomment to override the CDVCommandDelegateImpl used
-        // _commandDelegate = [[MainCommandDelegate alloc] initWithViewController:self];
+        // _commandDelegate = [[SettingCommandDelegate alloc] initWithViewController:self];
         // Uncomment to override the CDVCommandQueue used
-        // _commandQueue = [[MainCommandQueue alloc] initWithViewController:self];
+        // _commandQueue = [[SettingCommandQueue alloc] initWithViewController:self];
     }
     return self;
 }
@@ -73,7 +73,7 @@
 
 - (void)viewDidLoad
 {
-    self.startPage = @"index.html#page-event";
+    self.startPage = @"index.html#page-setting";
     
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
@@ -82,7 +82,7 @@
 - (void)viewDidUnload
 {
     [super viewDidUnload];
-    // Release any retained subviews of the main view.
+    // Release any retained subviews of the Setting view.
     // e.g. self.myOutlet = nil;
 }
 
@@ -133,10 +133,10 @@
 
 @end
 
-@implementation MainCommandDelegate
+@implementation SettingCommandDelegate
 
 /* To override the methods, uncomment the line in the init function(s)
-   in MainViewController.m
+   in SettingViewController.m
  */
 
 #pragma mark CDVCommandDelegate implementation
@@ -153,10 +153,10 @@
 
 @end
 
-@implementation MainCommandQueue
+@implementation SettingCommandQueue
 
 /* To override, uncomment the line in the init function(s)
-   in MainViewController.m
+   in SettingViewController.m
  */
 - (BOOL)execute:(CDVInvokedUrlCommand*)command
 {

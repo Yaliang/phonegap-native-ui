@@ -7,7 +7,7 @@
         <!--Activities-->
         <scene sceneID="IH0-C5-879">
             <objects>
-                <viewController id="XZN-qU-O48" sceneMemberID="viewController">
+                <viewController id="XZN-qU-O48" customClass="EventViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="gvx-Mn-8Mi"/>
                         <viewControllerLayoutGuide type="bottom" id="mtV-0A-rhB"/>
@@ -15,34 +15,70 @@
                     <view key="view" contentMode="scaleToFill" id="2Tf-hM-1YQ">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mf3-ZB-Hmn">
-                                <rect key="frame" x="-23" y="-15" width="46" height="30"/>
-                                <state key="normal" title="I am a native button">
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                </state>
-                                <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="132" y="285" width="137" height="30"/>
-                                </variation>
-                            </button>
-                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                        <variation key="default">
-                            <mask key="subviews">
-                                <exclude reference="mf3-ZB-Hmn"/>
-                            </mask>
-                        </variation>
-                        <variation key="widthClass=compact">
-                            <mask key="subviews">
-                                <include reference="mf3-ZB-Hmn"/>
-                            </mask>
-                        </variation>
                     </view>
                     <tabBarItem key="tabBarItem" title="Activities" image="icon-small.png" badgeValue="10" selectedImage="icon-small.png" id="6Ac-Dz-9dR"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gyq-2P-6AK" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1240.5" y="-169"/>
+        </scene>
+        <!--Chat-->
+        <scene sceneID="qtn-bL-XSV">
+            <objects>
+                <viewController title="Chat" id="Oqh-01-2Aa" customClass="ChatViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="QEf-Uw-X6c"/>
+                        <viewControllerLayoutGuide type="bottom" id="Si2-7n-PX6"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="cOa-CB-yo7">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Chat" id="UYs-ub-Ycq"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="RRA-FR-HvK" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1240.5" y="1339"/>
+        </scene>
+        <!--Setting-->
+        <scene sceneID="nxX-aR-FDP">
+            <objects>
+                <viewController title="Setting" id="nPA-ym-A0z" customClass="SettingViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="ap5-rv-hTn"/>
+                        <viewControllerLayoutGuide type="bottom" id="C3n-wK-g42"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="X8d-lF-QKY">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Setting" id="40q-Np-tUN"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="fAd-QF-hza" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1240.5" y="2034"/>
+        </scene>
+        <!--Friend-->
+        <scene sceneID="DBn-dI-0iZ">
+            <objects>
+                <viewController title="Friend" id="hk7-dy-a3D" customClass="FriendViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="XCg-m4-8kV"/>
+                        <viewControllerLayoutGuide type="bottom" id="Puq-TQ-TO9"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="T2J-2W-ALK">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Friend" image="user-black.png" id="0Vb-B5-hh2"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ChE-cs-MUw" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1240.5" y="577"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="D7T-xX-gIS">
@@ -56,14 +92,18 @@
                     </tabBar>
                     <connections>
                         <segue destination="XZN-qU-O48" kind="relationship" relationship="viewControllers" id="pKq-ZD-kud"/>
+                        <segue destination="hk7-dy-a3D" kind="relationship" relationship="viewControllers" id="DtQ-nx-vm4"/>
+                        <segue destination="Oqh-01-2Aa" kind="relationship" relationship="viewControllers" id="X5n-dE-R8D"/>
+                        <segue destination="nPA-ym-A0z" kind="relationship" relationship="viewControllers" id="YGN-9Z-j4K"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="AZf-uC-D86" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="322.5" y="-169"/>
+            <point key="canvasLocation" x="-31.5" y="2034"/>
         </scene>
     </scenes>
     <resources>
         <image name="icon-small.png" width="29" height="29"/>
+        <image name="user-black.png" width="14" height="14"/>
     </resources>
 </document>

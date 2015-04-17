@@ -18,25 +18,25 @@
  */
 
 //
-//  MainViewController.h
+//  FriendViewController.h
 //  NavHybrid
 //
 //  Created by ___FULLUSERNAME___ on ___DATE___.
 //  Copyright ___ORGANIZATIONNAME___ ___YEAR___. All rights reserved.
 //
 
-#import "MainViewController.h"
+#import "FriendViewController.h"
 
-@implementation MainViewController
+@implementation FriendViewController
 
 - (id)initWithNibName:(NSString*)nibNameOrNil bundle:(NSBundle*)nibBundleOrNil
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Uncomment to override the CDVCommandDelegateImpl used
-        // _commandDelegate = [[MainCommandDelegate alloc] initWithViewController:self];
+        // _commandDelegate = [[FriendCommandDelegate alloc] initWithViewController:self];
         // Uncomment to override the CDVCommandQueue used
-        // _commandQueue = [[MainCommandQueue alloc] initWithViewController:self];
+        // _commandQueue = [[FriendCommandQueue alloc] initWithViewController:self];
     }
     return self;
 }
@@ -46,9 +46,9 @@
     self = [super init];
     if (self) {
         // Uncomment to override the CDVCommandDelegateImpl used
-        // _commandDelegate = [[MainCommandDelegate alloc] initWithViewController:self];
+        // _commandDelegate = [[FriendCommandDelegate alloc] initWithViewController:self];
         // Uncomment to override the CDVCommandQueue used
-        // _commandQueue = [[MainCommandQueue alloc] initWithViewController:self];
+        // _commandQueue = [[FriendCommandQueue alloc] initWithViewController:self];
     }
     return self;
 }
@@ -73,7 +73,7 @@
 
 - (void)viewDidLoad
 {
-    self.startPage = @"index.html#page-event";
+    self.startPage = @"index.html#page-friend";
     
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
@@ -82,7 +82,7 @@
 - (void)viewDidUnload
 {
     [super viewDidUnload];
-    // Release any retained subviews of the main view.
+    // Release any retained subviews of the Friend view.
     // e.g. self.myOutlet = nil;
 }
 
@@ -133,10 +133,10 @@
 
 @end
 
-@implementation MainCommandDelegate
+@implementation FriendCommandDelegate
 
 /* To override the methods, uncomment the line in the init function(s)
-   in MainViewController.m
+   in FriendViewController.m
  */
 
 #pragma mark CDVCommandDelegate implementation
@@ -153,10 +153,10 @@
 
 @end
 
-@implementation MainCommandQueue
+@implementation FriendCommandQueue
 
 /* To override, uncomment the line in the init function(s)
-   in MainViewController.m
+   in FriendViewController.m
  */
 - (BOOL)execute:(CDVInvokedUrlCommand*)command
 {
