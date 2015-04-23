@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="13F1077" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="UKL-kI-X2f">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6751" systemVersion="13F1077" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="UKL-kI-X2f">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
     </dependencies>
     <scenes>
         <!--Activities-->
@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Activities" image="icon-small.png" selectedImage="icon-small.png" id="6Ac-Dz-9dR"/>
+                    <tabBarItem key="tabBarItem" title="Activities" image="icon-small.png" selectedImage="icon-72.png" id="6Ac-Dz-9dR"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gyq-2P-6AK" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -36,7 +36,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Chat" id="UYs-ub-Ycq"/>
+                    <tabBarItem key="tabBarItem" tag="2" title="Chat" image="chat-unselected-30.png" id="UYs-ub-Ycq"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RRA-FR-HvK" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -55,7 +55,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Setting" id="40q-Np-tUN"/>
+                    <tabBarItem key="tabBarItem" tag="4" title="Setting" image="settings49-blank-pink-50.png" selectedImage="settings49-solid-pink-50.png" id="40q-Np-tUN"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fAd-QF-hza" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -74,7 +74,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Friend" image="user-black.png" id="0Vb-B5-hh2"/>
+                    <tabBarItem key="tabBarItem" tag="1" title="Friend" image="list88-blank-pink-50.png" selectedImage="list88-blank-pink-50.png" id="0Vb-B5-hh2"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ChE-cs-MUw" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -103,7 +103,11 @@
         </scene>
     </scenes>
     <resources>
+        <image name="chat-unselected-30.png" width="30" height="30"/>
+        <image name="icon-72.png" width="72" height="72"/>
         <image name="icon-small.png" width="29" height="29"/>
-        <image name="user-black.png" width="14" height="14"/>
+        <image name="list88-blank-pink-50.png" width="50" height="50"/>
+        <image name="settings49-blank-pink-50.png" width="50" height="50"/>
+        <image name="settings49-solid-pink-50.png" width="50" height="50"/>
     </resources>
 </document>

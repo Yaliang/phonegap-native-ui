@@ -20,13 +20,10 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         initialElementEventSetting();
-
         cacheInitialization();
         loginByLocalStorage();
         // set up push notification
-        /****************** need to be fix ****************/
-        // pushNotification = window.plugins.pushNotification;
-        /**************************************************/
+        pushNotification = window.plugins.pushNotification;
         // add update button
         $(".ui-custom-log-out").before("<a href='https://build.phonegap.com/apps/1239477/install' class='ui-btn'>Update</a>");
     }
