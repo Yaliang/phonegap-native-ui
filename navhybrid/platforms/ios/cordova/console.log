@@ -351,3 +351,58 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 
 2015-04-17 12:35:01.868 NavHybrid[5330:20190] Resetting plugins due to page load.
 2015-04-17 12:35:01.954 NavHybrid[5330:20190] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/578D9322-72AA-4732-B915-323F172E8B2D/NavHybrid.app/www/index.html#page-setting
+2015-04-18 01:29:03.081 NavHybrid[2891:5236] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Data/Application/2BD6EAF3-175A-4AFB-BEF9-F3CFA228FFA1/Library/Cookies/Cookies.binarycookies
+2015-04-18 01:29:03.382 NavHybrid[2891:5236] Could not load the "(null)" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-18 01:29:03.389 NavHybrid[2891:5236] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-18 01:29:03.390 NavHybrid[2891:5236] Multi-tasking -> Device: YES, App: YES
+2015-04-18 01:29:03.406 NavHybrid[2891:5236] Unlimited access to network resources
+2015-04-18 01:29:03.407 NavHybrid[2891:5236] Could not load the "user-black.png" image referenced from a nib in the bundle with identifier "tk.yuemeuni.navhybrid"
+2015-04-18 01:29:03.407 NavHybrid[2891:5236] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-18 01:29:03.407 NavHybrid[2891:5236] Multi-tasking -> Device: YES, App: YES
+2015-04-18 01:29:03.409 NavHybrid[2891:5236] Unlimited access to network resources
+2015-04-18 01:29:03.409 NavHybrid[2891:5236] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-18 01:29:03.409 NavHybrid[2891:5236] Multi-tasking -> Device: YES, App: YES
+2015-04-18 01:29:03.411 NavHybrid[2891:5236] Unlimited access to network resources
+2015-04-18 01:29:03.411 NavHybrid[2891:5236] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-18 01:29:03.412 NavHybrid[2891:5236] Multi-tasking -> Device: YES, App: YES
+2015-04-18 01:29:03.413 NavHybrid[2891:5236] Unlimited access to network resources
+2015-04-18 01:29:03.498 NavHybrid[2891:5236] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-18 01:29:04.789 NavHybrid[2891:5236] Resetting plugins due to page load.
+2015-04-18 01:29:05.547 NavHybrid[2891:5236] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/6EFA949D-0508-4B10-A62A-E3FDE38C8F52/NavHybrid.app/www/index.html#page-event
+2015-04-18 01:29:10.579 NavHybrid[2891:5236] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-18 01:29:10.795 NavHybrid[2891:5236] Resetting plugins due to page load.
+2015-04-18 01:29:10.868 NavHybrid[2891:5236] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/6EFA949D-0508-4B10-A62A-E3FDE38C8F52/NavHybrid.app/www/index.html#page-friend
+2015-04-18 01:29:12.835 NavHybrid[2891:5236] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-18 01:29:13.573 NavHybrid[2891:5236] Resetting plugins due to page load.
+2015-04-18 01:29:13.720 NavHybrid[2891:5236] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/6EFA949D-0508-4B10-A62A-E3FDE38C8F52/NavHybrid.app/www/index.html#page-chat
+2015-04-18 01:29:16.680 NavHybrid[2891:5236] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-18 01:29:17.225 NavHybrid[2891:5236] Resetting plugins due to page load.
+2015-04-18 01:29:17.334 NavHybrid[2891:5236] Finished load of: file:///Users/yaliangwang/Library/Developer/CoreSimulator/Devices/E57F3460-7160-4D42-96B5-7C8F145FBCA3/data/Containers/Bundle/Application/6EFA949D-0508-4B10-A62A-E3FDE38C8F52/NavHybrid.app/www/index.html#page-setting

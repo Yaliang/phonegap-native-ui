@@ -482,6 +482,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = NavHybrid;
+				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -512,6 +513,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = NavHybrid;
+				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
